@@ -1,0 +1,15 @@
+body{ 
+    text-align: center;
+    background-color:rgb(221, 247, 241);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 15%;
+  }
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+  
+  .accordion{
+    max-width: 60%;
+    margin:0 auto; 
+  }
